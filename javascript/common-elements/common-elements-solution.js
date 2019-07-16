@@ -1,3 +1,4 @@
+// Example variables
 let array1A = [1, 2, 3, 4];
 let array1B = [3, 4, 5, 6, 3];
 let array2A = ['a', 'b', 'c'];
@@ -23,6 +24,6 @@ function commonElements(arrayA, arrayB) {
 return outPut;
 }
 
-console.log(commonElements(array1A, array1B));
-console.log(commonElements(array2A, array2B));
-console.log(commonElements(array3A, array3B));
+console.log(commonElements(array1A, array1B)); // <--- [3, 4]
+console.log(commonElements(array2A, array2B)); // <--- ['a']
+console.log(commonElements(array3A, array3B)); // <--- []
