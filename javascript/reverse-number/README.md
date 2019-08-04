@@ -6,7 +6,7 @@ Write a function called `reverseNumber` takes an integer in and reverses the int
 Input: 12345
 Output: 54321
 
-### Example 1:
+### Example 2:
 
 Input: 555
 Output: 555
